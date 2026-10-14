@@ -1,0 +1,15 @@
+# Flutter generated files
+emovi_app/.dart_tool/
+emovi_app/build/
+emovi_app/.idea/
+emovi_app/.flutter-plugins-dependencies/
+
+# Python generated files and environments
+emovi_api/venv/
+emovi_api/.venv/
+emovi_api/__pycache__/
+
+# Secrets
+.env
+.env.*
+!.env.example
